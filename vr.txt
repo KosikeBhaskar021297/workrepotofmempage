@@ -1,0 +1,7 @@
+bk1-'open the door'
+bk2-'open the door'
+bk3-'open the door'
+bk4-'open the door'
+bk5-'open the door'
+bk6-'open the door'
+bk7-'open the door'
